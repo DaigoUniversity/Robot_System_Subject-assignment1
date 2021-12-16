@@ -63,4 +63,4 @@ make clean
 Daigo Takano + Ryuichi Ueda
  
 # ライセンス
-GNU General Public License v3.0(GPL)
+GNU General Public License v3.0(GPL-3.0)
