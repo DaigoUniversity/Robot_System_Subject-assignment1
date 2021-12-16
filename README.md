@@ -31,11 +31,14 @@ DEMOの実行方法など、"hoge"の基本的な使い方を説明する
 ```bash
 git clone git@github.com:DaigoUniversity/Robot_System_Subject-assignment1.git
 cd Robot_System_Subject-assignment1
+
 make
 sudo insmod myled.ko
 sudo chmod 666 /dev/myled0
+
 echo 1 > /dev/myled0 //LED点灯
 echo 0 > /dev/myled0 //LED消灯
+
 sudo rmmod myled
 ```
 
