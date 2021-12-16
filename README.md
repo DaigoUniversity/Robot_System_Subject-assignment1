@@ -1,17 +1,16 @@
 # ロボットシステム学 課題1
-分かりやすくてカッコイイ名前をつける（今回は"hoge"という名前をつける）
  
-"hoge"が何かを簡潔に紹介する
+LEDを光らせるデバイスドライバのプログラムです。
  
-# DEMO
+# デモ動画
  
 "hoge"の魅力が直感的に伝えわるデモ動画や図解を載せる
  
-# Features
+# 特徴
  
 "hoge"のセールスポイントや差別化などを説明する
  
-# Requirement
+# 必要品
  
 "hoge"を動かすのに必要なライブラリなどを列挙する
  
@@ -26,7 +25,7 @@ Requirementで列挙したライブラリなどのインストール方法を説
 pip install huga_package
 ```
  
-# Usage
+# 使用法
  
 DEMOの実行方法など、"hoge"の基本的な使い方を説明する
  
@@ -40,7 +39,7 @@ python demo.py
  
 注意点などがあれば書く
  
-# Author
+# 著者
  
 作成情報を列挙する
  
@@ -48,7 +47,7 @@ python demo.py
 * 所属
 * E-mail
  
-# License
+# ライセンス
 ライセンスを明示する
  
 "hoge" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
