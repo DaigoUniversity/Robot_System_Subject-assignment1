@@ -53,8 +53,7 @@ sudo rmmod myled
 ```bash
 insmod: ERROR - could not insert module myled.ko ~~
 ```
-というエラーが起きる場合があることが確認されています。  
-その際は、
+というエラーが起きる場合があることが確認されています。  その際は、
 ```bash
 make clean
 ```
