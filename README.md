@@ -22,13 +22,14 @@ LEDを光らせることができます。
 * Raspberry Pi
 * LANケーブル
 * ルーター
+* USB Micro-B
 
 # 使用法
  
 DEMOの実行方法など、"hoge"の基本的な使い方を説明する
  
 ```bash
-git clone https://github.com/hoge/~
+git clone git@github.com:DaigoUniversity/Robot_System_Subject-assignment1.git
 cd examples
 python demo.py
 ```
