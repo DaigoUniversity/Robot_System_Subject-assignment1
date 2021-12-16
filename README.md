@@ -3,10 +3,10 @@
 LEDを光らせるデバイスドライバのプログラムです。
  
 # デモ
-###デモ動画
+### デモ動画
 https://www.youtube.com/watch?v=6jj6drCYsUE
 
-###回路例
+### 回路例
 
 <img src="https://user-images.githubusercontent.com/93714969/146319800-2da83175-fd14-4953-8905-f17996abc907.jpg" width="640px">
 
