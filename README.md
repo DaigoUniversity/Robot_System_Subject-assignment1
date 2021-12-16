@@ -22,6 +22,8 @@ https://www.youtube.com/watch?v=6jj6drCYsUE
  
 * Ubuntu
 * Raspberry Pi
+* LANケーブル
+* ルーター
  
 # Installation
  
