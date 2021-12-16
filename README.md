@@ -64,8 +64,4 @@ make clean
 * 所属
  
 # ライセンス
-## License
-MIT
- 
-"hoge" is Confidential.
-
+GNU General Public License v3.0(GPL)
