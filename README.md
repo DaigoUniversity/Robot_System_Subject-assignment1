@@ -3,8 +3,8 @@
 LEDを光らせるデバイスドライバのプログラムです。
  
 # デモ
- 
-"hoge"の魅力が直感的に伝えわるデモ動画や図解を載せる
+デモ動画
+https://www.youtube.com/watch?v=6jj6drCYsUE
  
 # 特徴
  
