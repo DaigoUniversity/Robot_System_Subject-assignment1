@@ -33,11 +33,7 @@ git clone git@github.com:DaigoUniversity/Robot_System_Subject-assignment1.git
 cd examples
 python demo.py
 ```
- 
-# Note
- 
-注意点などがあれば書く
- 
+
 # 著者
  
 作成情報を列挙する
