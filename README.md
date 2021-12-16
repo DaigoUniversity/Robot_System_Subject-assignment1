@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=6jj6drCYsUE
  
 # 特徴
  
-LEDを光らせることができます。
+LEDを点灯または消灯せることができます。
  
 # 必要品
  
