@@ -14,8 +14,8 @@ https://www.youtube.com/watch?v=6jj6drCYsUE
  
 "hoge"を動かすのに必要なライブラリなどを列挙する
  
-* huga 3.5.2
-* hogehuga 1.0.2
+* Ubuntu
+* Raspberry Pi
  
 # Installation
  
