@@ -46,6 +46,19 @@ sudo rmmod myled
 ```
 
 # 注意
+```bash
+sudo rmmod myled
+```
+を実行した際に
+```bash
+insmod: ERROR - could not insert module myled.ko ~~
+```
+というエラーが起きる場合があることが確認されています。  
+その際は、
+```bash
+make clean
+```
+を実行後に上記プログラムのmakeからやり直してください
 
 # 著者
  
