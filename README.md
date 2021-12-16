@@ -60,8 +60,7 @@ make clean
 を実行後に上記プログラムのmakeからやり直してください
 
 # 著者
-* Daigo Takano + Ryuichi Ueda
-* 所属
+Daigo Takano + Ryuichi Ueda
  
 # ライセンス
 GNU General Public License v3.0(GPL)
