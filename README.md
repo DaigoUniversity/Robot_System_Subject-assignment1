@@ -1,2 +1,2 @@
-# Robot_System_Subject-assignment1
+# ロボットシステム学
 This repository is assignment1 of Robot_System_Subject
