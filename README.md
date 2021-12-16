@@ -60,12 +60,8 @@ make clean
 を実行後に上記プログラムのmakeからやり直してください
 
 # 著者
- 
-作成情報を列挙する
- 
-* 作成者
+* Daigo Takano + Ryuichi Ueda
 * 所属
-* E-mail
  
 # ライセンス
 ライセンスを明示する
