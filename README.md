@@ -51,7 +51,7 @@ sudo rmmod myled
 ```
 を実行した際に
 ```bash
-insmod: ERROR - could not insert module myled.ko ~~
+insmod: ERROR - could not insert module myled.ko ~
 ```
 というエラーが起きる場合があることが確認されています。  その際は、
 ```bash
