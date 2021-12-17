@@ -1,1 +1,0 @@
-cmd_/home/ubuntu/Robot_System_Subject-assignment1/myled.ko := ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -T ./arch/arm64/kernel/module.lds -o /home/ubuntu/Robot_System_Subject-assignment1/myled.ko /home/ubuntu/Robot_System_Subject-assignment1/myled.o /home/ubuntu/Robot_System_Subject-assignment1/myled.mod.o;  true
