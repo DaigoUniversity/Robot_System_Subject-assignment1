@@ -11,8 +11,9 @@ https://www.youtube.com/watch?v=6jj6drCYsUE
 
 <img src="https://user-images.githubusercontent.com/93714969/146319800-2da83175-fd14-4953-8905-f17996abc907.jpg" width="640px">
 
+### 回路図
+<img src="https://user-images.githubusercontent.com/93714969/146628601-f4c1fe9a-c298-48c2-b96d-b8fa15b0b801.jpg" width="640px">
 
- 
 # 特徴
  
 LEDを点灯または消灯せることができます。
